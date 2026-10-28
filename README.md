@@ -14,11 +14,9 @@ I previously contributed to the team's **TEKNOFEST 2026** electric vehicle proje
 
 Some of my contributions include:
 
-- Developed firmware for an **STM32F407-based telemetry system**, integrating cellular data transmission, cloud monitoring, and SD card logging.
-- Implemented **HTTP-based telemetry communication** using SIM808 and ThingsBoard, transmitting vehicle parameters such as speed, battery measurements, and system status.
-- Developed and maintained functions for the **Vehicle Control System (AKS)**, including vehicle controls and CAN bus communication.
-- Worked on **CAN communication integration** between electronic control units and vehicle subsystems.
-- Contributed to firmware maintenance, debugging, and optimization across various vehicle electronics, including charging and insulation monitoring systems.
+- Developed and maintained **embedded firmware for electric vehicle telemetry and monitoring systems**.
+- Worked on **vehicle control software, communication protocols, and integration between electronic subsystems**.
+- Contributed to **firmware debugging, optimization, and system-level testing** during vehicle development and competition preparation.
 
 These experiences have strengthened my interest in embedded software, system integration, and the interaction between electronic hardware and firmware.
 
