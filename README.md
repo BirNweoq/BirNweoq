@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Berkay 👋
 
-<!--
-**BirNweoq/BirNweoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical & Electronics Engineering Student
 
-Here are some ideas to get you started:
+I'm an Electrical and Electronics Engineering student at **Bursa Uludağ University**, interested in embedded systems, electronics, and engineering research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how systems work, designing hardware, and developing software that interacts with the physical world.
+
+### 🔧 Areas of Interest
+- Embedded Systems & Microcontrollers
+- Firmware Development
+- PCB Design & Electronic Hardware
+- Power Electronics
+- Electric Vehicle Technologies
+- Communication Protocols & Telemetry
+
+### 🛠️ Technologies & Tools
+
+**Microcontrollers:** STM32, ESP32, Arduino  
+**Programming:** C, C++  
+**Hardware Design:** Altium Designer  
+**Communication:** CAN, UART, MQTT  
+**Development:** Git, GitHub, VS Code
+
+### 🚀 What I'm Working On
+
+- Improving my embedded systems and firmware development skills.
+- Exploring electronic hardware design and PCB development.
+- Building a structured engineering research and documentation workflow.
+- Learning through practical engineering projects.
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/berkay-özgür-032081331)
+- [ORCID](https://orcid.org/0009-0001-1957-9185)
+
+---
+
+*Learning, building, and improving — one engineering project at a time.*
